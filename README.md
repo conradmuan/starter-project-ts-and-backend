@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and ships with a trivial `server/`
 
-Read the server readme.
+Read the server [Readme here](./server/README.md).
 
 ## Available Scripts
 
