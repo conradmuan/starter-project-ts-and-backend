@@ -17,3 +17,7 @@ Starts `nodemon` to watch the `src/` directory, compiles typescript to the `dist
 ### `npm run build`
 
 Compiles typescript to the `dist/` directory
+
+### `npm run ts-node`
+
+Runs a .ts script with `ts-node`. example: `npm run ts-node scripts/run-me.ts`
